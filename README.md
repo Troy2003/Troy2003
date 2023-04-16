@@ -1,3 +1,5 @@
+![logo](https://github.com/Troy2003/Troy2003/blob/main/spder.jpg)
+
 <h1 align="center">Hi 👋, I'm Yash Gajanan Bansod</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
