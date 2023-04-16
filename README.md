@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, I'm Yash Gajanan Bansod</h1>
+
 ![logo](https://github.com/Troy2003/Troy2003/blob/main/spder.jpg)
 
-<h1 align="center">Hi 👋, I'm Yash Gajanan Bansod</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troy2003&label=Profile%20views&color=0e75b6&style=flat" alt="troy2003" /> </p>
